@@ -121,7 +121,7 @@ nnU-Net V2 is a complete overhaul. The "delete everything and start again" kind.
 (in the author's opinion haha). While the segmentation performance [remains the same](https://docs.google.com/spreadsheets/d/13gqjIKEMPFPyMMMwA1EML57IyoBjfC3-QCTn4zRN_Mg/edit?usp=sharing), a lot of cool stuff has been added. 
 It is now also much easier to use it as a development framework and to manually fine-tune its configuration to new 
 datasets. A big driver for the reimplementation was also the emergence of [Helmholtz Imaging](http://helmholtz-imaging.de), 
-prompting us to extend nnU-Net to more image formats and domains. Take a look [here](nnunet_origin_documentation/changelog.md) for some highlights.
+prompting us to extend nnU-Net to more image formats and domains. Take a look [here](Glom-segmentation-code/nnunet_origin_documentation/changelog.md) for some highlights.
 
 # Acknowledgements
 <img src="nnunet_origin_documentation/assets/HI_Logo.png" height="100px" />
