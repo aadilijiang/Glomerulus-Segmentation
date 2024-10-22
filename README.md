@@ -7,7 +7,7 @@ Optimization and some tracking efforts have been made to reduce memory and I/O c
 
 ## How to get started?
 Read these:
-- [Installation instructions](nnunet_origin_documentation/installation_instructions.md)
+- [Installation instructions](Glom-segmentation-code/nnunet_origin_documentation/installation_instructions.md)
 - [Dataset conversion](nnunet_origin_documentation/dataset_format.md)
 - [Usage instructions](nnunet_origin_documentation/how_to_use_nnunet.md)
 
