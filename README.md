@@ -1,5 +1,5 @@
 # This files contains the Glom-segmentation code for Glom segmentation.
-
+The script in this repository is designed to accompany our manuscript submission to Kidney International by Ali et al in 2024. 
 Optimization and some tracking efforts have been made to reduce memory and I/O cost during the 3D cascade and 3D full resoltion mode training and inference. 
 
 
