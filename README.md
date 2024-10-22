@@ -12,13 +12,13 @@ Read these:
 - [Usage instructions](Glom-segmentation-code/nnunet_origin_documentation/how_to_use_nnunet.md)
 
 Additional information:
-- [Region-based training](nnunet_origin_documentation/region_based_training.md)
-- [Manual data splits](nnunet_origin_documentation/manual_data_splits.md)
-- [Pretraining and finetuning](nnunet_origin_documentation/pretraining_and_finetuning.md)
-- [Intensity Normalization in nnU-Net](nnunet_origin_documentation/explanation_normalization.md)
-- [Manually editing nnU-Net configurations](nnunet_origin_documentation/explanation_plans_files.md)
-- [Extending nnU-Net](nnunet_origin_documentation/extending_nnunet.md)
-- [What is different in V2?](nnunet_origin_documentation/changelog.md)
+- [Region-based training](Glom-segmentation-code/nnunet_origin_documentation/region_based_training.md)
+- [Manual data splits](Glom-segmentation-code/nnunet_origin_documentation/manual_data_splits.md)
+- [Pretraining and finetuning](Glom-segmentation-code/nnunet_origin_documentation/pretraining_and_finetuning.md)
+- [Intensity Normalization in nnU-Net](Glom-segmentation-code/nnunet_origin_documentation/explanation_normalization.md)
+- [Manually editing nnU-Net configurations](Glom-segmentation-code/nnunet_origin_documentation/explanation_plans_files.md)
+- [Extending nnU-Net](Glom-segmentation-code/nnunet_origin_documentation/extending_nnunet.md)
+- [What is different in V2?](Glom-segmentation-code/nnunet_origin_documentation/changelog.md)
 
 
 # What is nnU-Net?
